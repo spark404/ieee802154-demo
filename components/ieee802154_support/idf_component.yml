@@ -1,0 +1,5 @@
+version: "1.0.0"
+description: ieee802154-support
+dependencies:
+  idf:
+    version: ">=5.1"
